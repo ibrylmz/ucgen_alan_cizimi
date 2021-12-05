@@ -1,0 +1,7 @@
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Degisken boyutlu ucgen cizimi\bin\Debug\Degisken boyutlu ucgen cizimi.exe.config
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Degisken boyutlu ucgen cizimi\bin\Debug\Degisken boyutlu ucgen cizimi.exe
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Degisken boyutlu ucgen cizimi\bin\Debug\Degisken boyutlu ucgen cizimi.pdb
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Degisken boyutlu ucgen cizimi\obj\Debug\Degisken boyutlu ucgen cizimi.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Degisken boyutlu ucgen cizimi\obj\Debug\Degisken boyutlu ucgen cizimi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Degisken boyutlu ucgen cizimi\obj\Debug\Degisken boyutlu ucgen cizimi.exe
+C:\Users\ibrah\Desktop\Kodlama Calismalari\Yeni GitHub Projeleri\Degisken boyutlu ucgen cizimi\obj\Debug\Degisken boyutlu ucgen cizimi.pdb

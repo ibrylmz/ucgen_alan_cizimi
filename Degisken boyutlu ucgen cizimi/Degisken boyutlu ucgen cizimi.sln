@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degisken boyutlu ucgen cizimi", "Degisken boyutlu ucgen cizimi.csproj", "{D87BBB6D-FAF4-4D59-A6ED-2E06043E4195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D87BBB6D-FAF4-4D59-A6ED-2E06043E4195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87BBB6D-FAF4-4D59-A6ED-2E06043E4195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87BBB6D-FAF4-4D59-A6ED-2E06043E4195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87BBB6D-FAF4-4D59-A6ED-2E06043E4195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5333DDA-0372-4C7C-B85D-2A68F8E53C15}
+	EndGlobalSection
+EndGlobal
